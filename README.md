@@ -9,3 +9,7 @@ Spring Kotlin support is documented in the Spring Framework and Spring Boot refe
 ## Creating a New Project
 
 Using the Initializr Website - [https://start.spring.io/#!language=kotlin&type=gradle-project](https://start.spring.io/#!language=kotlin&type=gradle-project)
+
+## Writing your first Kotlin controller
+
+Start the web application by running the main function of BlogApplication.kt, and go to http://localhost:8080/, you should see a sober web page with a "Blog" headline.
